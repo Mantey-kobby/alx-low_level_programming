@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - A program that write the function of a name
- * Return 1 (Success)
+ * Return: 1
  */
 int main(void)
 {
