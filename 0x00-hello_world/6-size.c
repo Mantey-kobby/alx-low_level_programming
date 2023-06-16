@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - a program that write computer types
- * Return 0
+ * main - A program that write computer types
+ * Return:0
  */
 int main(void)
 {
